@@ -1,0 +1,1 @@
+RSA was introduced in 1977 by Ronald Lee Vesti Samore and Leonard Aardman. All three were working at MIT at the time. RSA is the combination of the first letters of their surnames.
