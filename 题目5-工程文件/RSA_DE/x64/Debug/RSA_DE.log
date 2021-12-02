@@ -1,0 +1,29 @@
+﻿生成启动时间为 2020/12/28 10:19:17。
+     1>项目“C:\Users\asus\Documents\Visual Studio 2013\Projects\RSA_DE\RSA_DE\RSA_DE.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Rcc'ing RSA_DE.qrc...
+     1>C:\Users\asus\Documents\Visual Studio 2013\Projects\RSA_DE\RSA_DE\RSA_DE.qrc : warning : potential duplicate alias detected: 'nanyou.jpg'
+         Uic'ing UI\RSA_DE.ui...
+         Moc'ing RSA_DE.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\asus\Downloads\msys\home\asus\gmp-6.2.0" /I.\GeneratedFiles /I. /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtCore /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtGui /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /sdl- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_RSA_DE.cpp Src\RSA_DE.cpp Src\main.cpp Src\rsa.cpp
+         moc_RSA_DE.cpp
+         RSA_DE.cpp
+         main.cpp
+         rsa.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\asus\Downloads\msys\home\asus\gmp-6.2.0" /I.\GeneratedFiles /I. /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtCore /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtGui /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /sdl- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_RSA_DE.cpp
+         qrc_RSA_DE.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\asus\Documents\Visual Studio 2013\Projects\RSA_DE\x64\Debug\\RSA_DE.exe" /NOLOGO /LIBPATH:"C:\Users\asus\Downloads\msys\home\asus\gmp-6.2.0\.libs" /LIBPATH:C:\Qt\Qt5.5.1\5.5\msvc2013_64\lib libgmp.dll.a libgmpxx.dll.a qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\asus\Documents\Visual Studio 2013\Projects\RSA_DE\x64\Debug\RSA_DE.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\asus\Documents\Visual Studio 2013\Projects\RSA_DE\x64\Debug\RSA_DE.lib" /MACHINE:X64 x64\Debug\RSA_DE.res
+         x64\Debug\moc_RSA_DE.obj
+         x64\Debug\qrc_RSA_DE.obj
+         x64\Debug\main.obj
+         x64\Debug\rsa.obj
+         x64\Debug\RSA_DE.obj
+         RSA_DE.vcxproj -> C:\Users\asus\Documents\Visual Studio 2013\Projects\RSA_DE\x64\Debug\RSA_DE.exe
+     1>已完成生成项目“C:\Users\asus\Documents\Visual Studio 2013\Projects\RSA_DE\RSA_DE\RSA_DE.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.17
